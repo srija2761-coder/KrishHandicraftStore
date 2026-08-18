@@ -1,2 +1,2 @@
 # KrishHandicraftStore
-Author - Srija Yadav
+Author - Pinjarla Srija
